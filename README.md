@@ -12,10 +12,11 @@ MODEL-KERNEL
 
 ## 📊
 
+![image](https://github.com/NilsonNeto26/MODEL-KERNEL/assets/130411092/d9c64b8a-b659-4ba9-996e-2c452699aa13)
 
- DNX and DNVM have been replaced by the new .NET CLI. See:
 
-- https://docs.microsoft.com/dotnet/articles/standard/getting-started
-- http://github.com/dotnet/cli
-
-As a result, we're not accepting anymore changes to this project. Please file any new issues on http://github.com/dotnet/cli.
+<div align="center">
+  <br/>
+  <br/>
+  <br/>
+    <div>
